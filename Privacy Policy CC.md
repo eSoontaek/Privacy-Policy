@@ -1,4 +1,4 @@
-rivacy Policy
+Privacy Policy
 
 Soontaek Lee built the Clear Count app as an Ad Supported app. This SERVICE is provided by Soontaek Lee at no cost and is intended for use as is.
 
