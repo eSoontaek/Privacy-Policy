@@ -1,61 +1,48 @@
-Privacy Policy
+PRIVACY POLICY
+Updated on: July 13, 2024
+Effective Date: July 13, 2024
 
-Soontaek Lee built the Identity of ID app as an Ad Supported app. This SERVICE is provided by Soontaek Lee at no cost and is intended for use as is.
+INTRODUCTION
+Welcome to eSOONTECH apps developed by Soontaek Lee.
+This privacy policy clarifies what information is collected from the user when using eSOONTECH apps, who collects it, how it might be used, and what rights the user has in relation to it.
+By using eSOONTECH apps, you acknowledge that you have read and understood this privacy policy and agree to the data practices outlined herein.
+Please read carefully, and if there are any terms that you do not agree with, please uninstall and discontinue using eSOONTECH apps.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Definitions
+• "App" refers to all eSOONTECH apps.
+• "User" refers to anyone using the app.
+• "Developer" refers to Soontaek Lee, the individual responsible for the development and maintenance of the app.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+INFORMATION AND DATA COLLECTION
+The developer does not own a server or a database to store user data in any form. However, the app uses third-party services that do collect data in compliance with their privacy policies as described below:
+• AdMob by Google: Used to monetize the app. Its data collection includes, but is not limited to, device information, location data, and advertising identifiers.
+• User Messaging Platform: Used to comply with relevant regulations, such as the GDPR, by displaying Consent Messages on the app. Its data collection includes, but is not limited to, IP address, Android advertising ID.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Identity of ID unless otherwise defined in this Privacy Policy.
+COLLECTION PURPOSE
+The data is collected for the following purposes:
+• To show personalized or non-personalized ads depending on the device configuration of the user.
+• To comply with relevant data protection laws and regulations, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), where applicable after determining if the consent message should be shown based on the user’s location and to manage the consent for data collection according to the user’s consent.
+• To improve the app’s performance in future updates.
 
-Information Collection and Use
+DATA HANDLING
+The collected data is handled by the third-party services mentioned above, the developer may access them only via their consoles, and does not copy or share or sell this data.
+For information regarding how Google uses information and data from sites or apps that use its services, please refer to this link for more details:
+https://policies.google.com/technologies/partner-sites
+Please note that Google’s privacy policy is different, refer to this link for more details:
+https://policies.google.com/privacy
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+USER RIGHTS
+The user has the following rights concerning the data collected by the third-party services mentioned above:
+• The right to access personal data collected by AdMob.
+• The right to request the deletion of personal data.
+• The right to know what data is being collected and how it is being used.
+• The right to opt-out of personalized advertising by adjusting ad settings on the device or by visiting Google's Ads Settings (please refer to the steps in Google’s support page: https://support.google.com/ads/answer/2662856?co=GENIE.Platform%3DAndroid&oco=1 or simply use the "Opt-Out Of Ads Personalization" option in the setting of the app).
+For more information on how to exercise these rights, please visit Google’s Privacy Policy:
+https://policies.google.com/privacy
 
-The app does use third party services that may collect information used to identify you.
+THIRD-PARTY SERVICES
+The app may contain links to other sites. If the user clicks on a third-party link, they will be directed to that site. These external sites are not operated by the developer of the app. Therefore, it is strongly advised to review the Privacy Policy of these websites. The developer of the app has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Link to privacy policy of third party service providers used by the app
-
-Google Play Services
-Firebase Analytics
-Log Data
-
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
-Cookies
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-Service Providers
-
-I may employ third-party companies and individuals due to the following reasons:
-
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-Security
-
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-Children’s Privacy
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
-Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at esoontaek@gmail.com.
-
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+MODIFICATION OF PRIVACY POLICY
+The developer may modify the policy at any time. The change will be mentioned in the “What’s new” section of Play Store and “Changelog” section in the app. Your continued use of the app after changes have been made constitutes acceptance of the new policy. Reviewing the Privacy Policy periodically for any changes is encouraged.
+If you have any questions or concerns about this Privacy Policy, please contact the developer at esoontech@gmail.com.
